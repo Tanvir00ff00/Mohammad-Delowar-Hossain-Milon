@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Siyam Rupali', 'Roboto', sans-serif;
     line-height: 1.8;
     margin: 0;
     padding: 0;
@@ -141,7 +141,7 @@ main {
 .bengali {
     font-family: 'Siyam Rupali', sans-serif;
     font-size: 1.1rem;
-    color: #555;
+    color: var(--text-color);
 }
 
 .timeline {
